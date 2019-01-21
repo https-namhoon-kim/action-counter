@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 	"log"
-	
+
 	"github.com/gorilla/mux"
 	"github.com/2DP/action-counter/config"
 	"github.com/2DP/action-counter/model"
